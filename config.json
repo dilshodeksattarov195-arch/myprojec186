@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterupdate",
+        "uuid": 529356,
+        "checksum": "pwgy5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
